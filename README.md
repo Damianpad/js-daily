@@ -14,6 +14,6 @@ Get some practice writing out some new syntax
 
 Break the code down and undertand why it works
 
-#Build
+# Build
 
 Build something new using what you learned
